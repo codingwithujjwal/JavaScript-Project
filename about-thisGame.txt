@@ -1,0 +1,11 @@
+Tic-tac-toe, also known as noughts and crosses, is a simple yet strategic game played on a 3x3 grid.
+Two players take turns marking spaces in the grid with their respective symbols, typically "X" and "O".
+The goal is to be the first player to form a line of three of their symbols horizontally, vertically, or diagonally.
+
+How to Play:
+
+1.The Board: The game is played on a 3x3 grid.
+2.Players: Two players participate, each assigned a symbol ("X" or "O").
+3.Turns: Players take turns placing their symbol in an empty space on the grid.
+4.Winning: A player wins by placing three of their symbols in a row, 
+           either horizontally, vertically, or diagonally.
